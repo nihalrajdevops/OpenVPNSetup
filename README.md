@@ -2,9 +2,9 @@ Usage
 
 First, clone the folder by using the below command:
 
-git clone https://github.com/nihalrajdevops/coreyo.git
+git clone https://github.com/nihalrajdevops/OpenVPNSetup.git
 
-navigaate to the folder using below command(you need to have root access going forward)
+navigate to the folder using below command(you need to have root access going forward)
 cd /coreyo
 
 once done copy the below command 
